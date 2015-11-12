@@ -1,5 +1,7 @@
 # mother_helpers_website
 
+get familiar with bootstrap!
+
 Specifications:
 	-Top of every page has logo, name of charity, and "donate now" button
 	-professional looking -- white background with black text and soft baby colors
